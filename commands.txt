@@ -1,0 +1,9 @@
+git init
+git status
+git add
+git commit -m 
+git restore
+git rm --chache
+git remote -v 
+git remote set-url origin https://token id@github.com + account name + repo name 
+git push origin master
